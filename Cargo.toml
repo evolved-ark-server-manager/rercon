@@ -5,7 +5,7 @@ repository = "https://github.com/ikkerens/rercon"
 authors = ["Rens Rikkerink <contact@ikkerens.com>"]
 license = "MIT"
 edition = "2018"
-version = "0.0.0-dev"
+version = "1.2.0"
 
 [dependencies]
 byteorder = "1.5"
